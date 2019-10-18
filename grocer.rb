@@ -18,9 +18,9 @@ def consolidate_cart(cart)
   final_hash
 end
 
-def apply_coupons(cart, coupons
+def apply_coupons(cart, coupons)
   coupons.each do |coupon|
-
+     
     binding.pry
     
   end
